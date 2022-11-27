@@ -1,6 +1,6 @@
 # Hardhat Basic Calculator Project
 
-- [Hardhat Fund Me](#hardhat-fund-me)
+- [Hardhat Basic Calculator](#hardhat-fund-me)
 - [Getting Started](#getting-started)
   - [Requirements](#requirements)
   - [Quickstart](#quickstart)
@@ -33,7 +33,7 @@
 ## Quickstart
 
 ```
-git clone https://github.com/DevSammy22/hardhat-fund-me-smart-contract-project.git
+git clone https://github.com/DevSammy22/basic-calculator-smart-contract-project.git
 cd basic-calculator
 yarn
 ```
